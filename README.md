@@ -17,9 +17,9 @@ This repository documents my progress in learning JavaScript through daily codin
 | Day | Topics | Status |
 |---|---|---|
 | Day 01 | Variables, Data Types & Functions | ✅ Completed |
-| Day 02 | Operators | ⏳ Upcoming |
-| Day 03 | Conditional Statements | ⏳ Upcoming |
-| Day 04 | Loops | ⏳ Upcoming |
+| Day 02 | Operators | ✅ Completed |
+| Day 03 | Conditional Statements | ✅ Completed |
+| Day 04 | Loops | ✅ Completed |
 | Day 05 | Arrays | ⏳ Upcoming |
 | Day 06 | Objects | ⏳ Upcoming |
 | Day 07 | String Methods | ⏳ Upcoming |
