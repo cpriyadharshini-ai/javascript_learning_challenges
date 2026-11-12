@@ -20,7 +20,7 @@ This repository documents my progress in learning JavaScript through daily codin
 | Day 02 | Operators | ✅ Completed |
 | Day 03 | Conditional Statements | ✅ Completed |
 | Day 04 | Loops | ✅ Completed |
-| Day 05 | Arrays | ⏳ Upcoming |
+| Day 05 | Arrays | ⏳ Inprogress |
 | Day 06 | Objects | ⏳ Upcoming |
 | Day 07 | String Methods | ⏳ Upcoming |
 | Day 08 | Array Methods | ⏳ Upcoming |
